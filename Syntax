@@ -1,0 +1,18 @@
+SQL - Structured Query Language : An Organized collection of data stored in an electronic format 
+                                  A standard language for accessing and manipulating the data of a particular relational database.
+                                 
+   COMMANDS : DDL, DCL, DML, TCL, DQL
+              ~ DDL - Data Definition Language: 
+                      Create - Create Database database_name;
+                      Create table table_name;
+                      Create view view_name;
+                      
+                      Drop - Drop database_name;
+                             Drop Table_name;
+                             
+                      Alter -  ALTER TABLE table_name ADD column_name Datatype; 
+                      
+                      Truncate - It used to delete all the rows from the table and free the space containing the table.
+                                 TRUNCATE TABLE table_name;  
+                                 
+   
